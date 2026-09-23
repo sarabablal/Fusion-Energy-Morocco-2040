@@ -59,7 +59,7 @@ This research is also available as an interactive [NotebookLM](https://notebook.
 
 ## Read the full paper
 
-📄 [Fusion_Energy_Morocco_Research.pdf](./Fusion_Energy_Morocco_Research.pdf)
+📄 [Fusion_Energy_Morocco_Research.pdf](/Fusion-Energy-Morocco-2040/Fusion_Energy_in_Morocco_Research.pdf)
 
 ## 🔗 Cite this work (DOI)
 

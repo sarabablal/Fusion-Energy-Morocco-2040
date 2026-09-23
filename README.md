@@ -61,6 +61,12 @@ This research is also available as an interactive [NotebookLM](https://notebook.
 
 📄 [Fusion_Energy_Morocco_Research.pdf](./Fusion_Energy_Morocco_Research.pdf)
 
+## 🔗 Cite this work (DOI)
+
+Published on Figshare: [Figshare](https://figshare.com/authors/Sara_Bablal/25100101/doi.org/10.6084/m9.figshare.33978067)
+
+---
+
 ## Sources
 
 This paper draws on 25 sources, including IRENA, IAEA, MIT Energy

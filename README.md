@@ -63,7 +63,7 @@ This research is also available as an interactive [NotebookLM](https://notebook.
 
 ## 🔗 Cite this work (DOI)
 
-Published on Figshare: [Figshare](https://figshare.com/authors/Sara_Bablal/25100101/doi.org/10.6084/m9.figshare.33978067)
+Published on Figshare: [Figshare](https://figshare.com/articles/preprint/Is_Fusion_Energy_a_Realistic_Option_for_Morocco_s_Energy_Mix_by_2040_/33978067)
 
 ---
 
